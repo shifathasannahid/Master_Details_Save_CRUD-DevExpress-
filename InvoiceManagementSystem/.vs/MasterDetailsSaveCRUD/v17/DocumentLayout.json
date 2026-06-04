@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training_Shifat\\InvoiceManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2B8D4-F73C-441C-92F0-F717D3A4626A}|MasterDetailsSaveCRUD\\MasterDetailsSaveCRUD.csproj|c:\\training_shifat\\invoicemanagementsystem\\masterdetailssavecrud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D2B8D4-F73C-441C-92F0-F717D3A4626A}|MasterDetailsSaveCRUD\\MasterDetailsSaveCRUD.csproj|solutionrelative:masterdetailssavecrud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D2B8D4-F73C-441C-92F0-F717D3A4626A}|MasterDetailsSaveCRUD\\MasterDetailsSaveCRUD.csproj|c:\\training_shifat\\invoicemanagementsystem\\masterdetailssavecrud\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D2B8D4-F73C-441C-92F0-F717D3A4626A}|MasterDetailsSaveCRUD\\MasterDetailsSaveCRUD.csproj|solutionrelative:masterdetailssavecrud\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Training_Shifat\\InvoiceManagementSystem\\MasterDetailsSaveCRUD\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MasterDetailsSaveCRUD\\Form1.Designer.cs",
+              "ToolTip": "C:\\Training_Shifat\\InvoiceManagementSystem\\MasterDetailsSaveCRUD\\Form1.Designer.cs",
+              "RelativeToolTip": "MasterDetailsSaveCRUD\\Form1.Designer.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T06:29:48.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Training_Shifat\\InvoiceManagementSystem\\MasterDetailsSaveCRUD\\Form1.cs",
+              "RelativeDocumentMoniker": "MasterDetailsSaveCRUD\\Form1.cs",
+              "ToolTip": "C:\\Training_Shifat\\InvoiceManagementSystem\\MasterDetailsSaveCRUD\\Form1.cs",
+              "RelativeToolTip": "MasterDetailsSaveCRUD\\Form1.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAUwN0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T12:14:31.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

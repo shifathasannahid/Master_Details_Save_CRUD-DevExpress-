@@ -1,0 +1,54 @@
+--CREATE OR ALTER PROCEDURE sp_InvoiceDetail_ByInvoice
+--    @InvoiceId INT
+--AS
+--BEGIN
+--    SELECT *
+--    FROM InvoiceDetails
+--    WHERE InvoiceId = @InvoiceId;
+--END
+--GO
+
+--CREATE OR ALTER PROCEDURE sp_InvoiceDetail_ByInvoice
+--@InvoiceId INT
+--AS
+--BEGIN
+--    SELECT *
+--    FROM InvoiceDetails
+--    WHERE InvoiceId = @InvoiceId
+--END
+--GO
+
+--CREATE PROCEDURE sp_Invoice_Update
+--@InvoiceId INT,
+--@CustomerName NVARCHAR(100),
+--@InvoiceDate DATE
+--AS
+--BEGIN
+--    UPDATE Invoices
+--    SET CustomerName = @CustomerName,
+--        InvoiceDate = @InvoiceDate
+--    WHERE InvoiceId = @InvoiceId
+--END
+
+--CREATE OR ALTER PROC sp_InvoiceDetail_ByInvoice
+--@InvoiceId INT
+--AS
+--BEGIN
+--    SELECT *
+--    FROM InvoiceDetails
+--    WHERE InvoiceId=@InvoiceId
+--END
+--GO
+
+--CREATE OR ALTER PROC sp_Invoice_Update
+--@InvoiceId INT,
+--@CustomerName NVARCHAR(100),
+--@InvoiceDate DATE
+--AS
+--BEGIN
+--    UPDATE Invoice
+--    SET CustomerName=@CustomerName,
+--        InvoiceDate=@InvoiceDate
+--    WHERE InvoiceId=@InvoiceId
+--END
+--GO
